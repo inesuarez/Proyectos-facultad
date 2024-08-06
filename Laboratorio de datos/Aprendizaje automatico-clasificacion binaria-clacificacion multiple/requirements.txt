@@ -1,0 +1,5 @@
+pandas
+matplotlib
+scikit-learn
+inline_sql
+seaborn

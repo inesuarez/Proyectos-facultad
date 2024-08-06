@@ -1,0 +1,164 @@
+,sede_id,descripcion,codigoPais
+0,CALEG,Consulado  General  en  Porto  Alegre,BRA
+1,CANTO,Consulado  en  Antofagasta,CHL
+2,CAREN,Consulado  General  en  Punta  Arenas,CHL
+3,CASUN,Consulado  General  en  Asunción,PRY
+4,CATLA,Consulado  General  en  Atlanta,USA
+5,CBARC,Consulado  General  y  Centro  de  Promoción  en  Barcelona,ESP
+6,CBEIJ,Sección  Consular  en  Beijing,CHN
+7,CBELO,Consulado  en  Belo  Horizonte,BRA
+8,CBONN,Consulado  en  Bonn,DEU
+9,CCADI,Consulado  en  Cádiz,ESP
+10,CCEST,Consulado  General  en  Ciudad  del  Este,PRY
+11,CCHIC,Consulado  General  en  Chicago,USA
+12,CCOCH,Consulado  en  Cochabamba,BOL
+13,CCOLO,Consulado  en  Colonia,URY
+14,CCURI,Consulado  en  Curitiba,BRA
+15,CENCA,Consulado  General  en  Encarnación,PRY
+16,CFBEN,Consulado  en  Fray  Bentos,URY
+17,CFDIG,Consulado  en  Foz  de  Iguazu,BRA
+18,CFLOR,Consulado  en  Florianopolis,BRA
+19,CFRAN,Consulado  General  y  Centro  de  Promoción  en  Francfort,DEU
+20,CGEST,Consulado  General  y  Centro  de  Promoción  en  Estambul,TUR
+21,CGMUM,Consulado  General  y  Centro  de  Promoción  en  Mumbai,IND
+22,CGPAZ,Consulado  General  en  La  Paz,BOL
+23,CGTEL,Consulado  General  en  Tel  Aviv,ISR
+24,CGUAN,Consulado  General  en  Guangzhou,CHN
+25,CGUAY,Consulado  en  Guayaquil,ECU
+26,CGVAN,Consulado  General  en  Vancouver,CAN
+27,CHAMB,Consulado  General  en  Hamburgo,DEU
+28,CHONG,Consulado  General  en  Hong  Kong,CHN
+29,CHOUS,Consulado  General  en  Houston,USA
+30,CJOHA,Consulado  General  en  Johannesburgo,ZAF
+31,CLANG,Consulado  General  y  Centro  de  Promoción  en  Los  Ángeles,USA
+32,CLIMA,Consulado  General  en  Lima,PER
+33,CLOND,Consulado  General  en  Londres,GRB
+34,CMADR,Consulado  General  en  Madrid,ESP
+35,CMALD,Consulado  en  Maldonado,URY
+36,CMALL,Consulado  en  Palma,ESP
+37,CMDEO,Consulado  General  en  Montevideo,URY
+38,CMEXI,Consulado  General  en  México,MEX
+39,CMIAM,Consulado  General  y  Centro  de  Promoción  en  Miami,USA
+40,CMILA,Consulado  General  y  Centro  de  Promoción  en  Milán,ITA
+41,CMREA,Consulado  General  en  Montreal,CAN
+42,CNYOR,Consulado  General  y  Centro  de  Promoción  en  Nueva  York,USA
+43,CPABL,Consulado  General  y  Centro  de  Promoción  en  San  Pablo,BRA
+44,CPAYS,Consulado  en  Paysandú,URY
+45,CPCAR,Consulado  en  Playa  del  Carmen,MEX
+46,CPMON,Consulado  en  Puerto  Montt,CHL
+47,CRECI,Consulado  en  Recife,BRA
+48,CRIOJ,Consulado  General  en  Rio  de  Janeiro,BRA
+49,CROMA,Consulado  General  en  Roma,ITA
+50,CSBAH,Consulado  en  San  Salvador  de  Bahía,BRA
+51,CSCRS,Consulado  General  y  Centro  de  Promoción  en  Santa  Cruz,BOL
+52,CSHAN,Consulado  General  y  Centro  de  Promoción  en  Shanghai,CHN
+53,CSIDN,Consulado  General  en  Sidney,AUS
+54,CSIGO,Consulado  General  en  Santiago,CHL
+55,CSLTO,Consulado  en  Salto,URY
+56,CTARI,Consulado  General  en  Tarija,BOL
+57,CTENE,Consulado  en  Tenerife,ESP
+58,CTORO,Consulado  General  en  Toronto,CAN
+59,CURUG,Consulado  en  Uruguayana,BRA
+60,CVALP,Consulado  General  en  Valparaíso,CHL
+61,CVIGO,Consulado  General  en  Vigo,ESP
+62,CVILL,Consulado  en  Villazon,BOL
+63,CYACU,Consulado  en  Yacuiba,BOL
+64,DIGAC,Argentinos  en  el  exterior,ARG
+65,EALEM,Embajada  en  Alemania,DEU
+66,EANGO,Embajada  en  Angola,AGO
+67,EARAB,Embajada  en  Arabia  Saudita,SAU
+68,EARGE,Embajada  en  Argelia,DZA
+69,EARME,Embajada  en  Armenia,ARM
+70,EASIR,Embajada  en  Siria,SYR
+71,EAUST,Embajada  en  Australia,AUS
+72,EAZER,Embajada  en  Azerbaiyán,AZE
+73,EBANG,Embajada  en  Bangladesh,BGD
+74,EBARB,Embajada  en  Barbados,BRB
+75,EBELG,Embajada  en  Bélgica,BEL
+76,EBOLV,Embajada  en  Bolivia,BOL
+77,EBRAS,Embajada  en  Brasil,BRA
+78,EBULG,Embajada  en  Bulgaria,BGR
+79,ECANA,Embajada  en  Canadá,CAN
+80,ECEUR,Embajada  ante  la  Unión  Europea,BEL
+81,ECHES,Embajada  en  República  Checa,CZE
+82,ECHIN,Embajada  en  China,CHN
+83,ECOLO,Embajada  en  Colombia,COL
+84,ECORE,Embajada  en  Corea  Del  Sur,KOR
+85,ECUBA,Embajada  en  Cuba,CUB
+86,EDINA,Embajada  en  Dinamarca,DNK
+87,EDOMI,Embajada  en  República  Dominicana,DOM
+88,EEARB,Embajada  en  Emiratos  Árabes  Unidos,ARE
+89,EECUA,Embajada  en  Ecuador,ECU
+90,EEEUU,Embajada  en  Estados  Unidos,USA
+91,EEGIP,Embajada  en  Egipto,EGY
+92,EEOEA,Misión  Permanente  ante  la  Organización  de  Estados  Americanos,USA
+93,EESPA,Embajada  en  España,ESP
+94,EETIO,Embajada  en  Etiopía,ETH
+95,EFILI,Embajada  en  Filipinas,PHL
+96,EFINL,Embajada  en  Finlandia,FIN
+97,EFRAN,Embajada  en  Francia,FRA
+98,EFRUS,Embajada  en  Rusia,RUS
+99,EGREC,Embajada  en  Grecia,GRC
+100,EGUAT,Embajada  en  Guatemala,GTM
+101,EGUYA,Embajada  en  Guyana,GUY
+102,EHAIT,Embajada  en  Haití,HTI
+103,EHILE,Embajada  en  Chile,CHL
+104,EHOND,Embajada  en  Honduras,HND
+105,EINDI,Embajada  en  India,IND
+106,EIRAN,Embajada  en  Irán,IRN
+107,EIRLA,Embajada  en  Irlanda,IRL
+108,EISIA,Embajada  en  Indonesia,IDN
+109,EISRA,Embajada  en  Israel,ISR
+110,EITAL,Embajada  en  Italia,ITA
+111,EJAMA,Embajada  en  Jamaica,JAM
+112,EJAPO,Embajada  en  Japón,JPN
+113,EKENY,Embajada  en  Kenia,KEN
+114,EKUWA,Embajada  en  Kuwait,KWT
+115,ELBIA,Embajada  en  Libia,LBY
+116,ELBNO,Embajada  en  Líbano,LBN
+117,ELUCI,Embajada  en  Santa  Lucía,LCA
+118,EMARR,Embajada  en  Marruecos,MAR
+119,EMEXI,Embajada  en  México,MEX
+120,EMFAO,Misión  Permanente  ante  la  Organización  de  las  Naciones  Unidas  para  la  Alimentación  y  la  Agricultura,ITA
+121,EMOZA,Embajada  en  Mozambique,MOZ
+122,EMSIA,Embajada  en  Malasia,MYS
+123,EMSUR,Representación  Permanente  para  MERCOSUR  y  ALADI,URY
+124,ENAUN,Representación  Permanente  ante  las  Naciones  Unidas,USA
+125,ENICA,Embajada  en  Nicaragua,NIC
+126,ENIGE,Embajada  en  Nigeria,NGA
+127,ENORU,Embajada  en  Noruega,NOR
+128,ENZEL,Embajada  en  Nueva  Zelandia,NZL
+129,EOIRS,Misión  Permanente  ante  los  Organismos  Internacionales  en  Ginebra,CHE
+130,EPAKI,Embajada  en  Pakistán,PAK
+131,EPARA,Embajada  en  Paraguay,PRY
+132,EPBAJ,Embajada  en  Holanda,NLD
+133,EPERU,Embajada  en  Perú,PER
+134,EPNMA,Embajada  en  Panamá,PAN
+135,EPOLO,Embajada  en  Polonia,POL
+136,EPORT,Embajada  en  Portugal,PRT
+137,EQATR,Embajada  en  Qatar,QAT
+138,ERICA,Embajada  en  Costa  Rica,CRI
+139,ERUMA,Embajada  en  Rumania,ROU
+140,ERUNI,Embajada  en  Reino  Unido,GRB
+141,ESAFR,Embajada  en  Sudáfrica,ZAF
+142,ESALV,Embajada  en  El  Salvador,SLV
+143,ESENE,Embajada  en  Senegal,SEN
+144,ESERB,Embajada  en  Serbia,SRB
+145,ESING,Embajada  en  Singapur,SGP
+146,ESSED,Representación  ante  la  Santa  Sede,VAT
+147,ESUEC,Embajada  en  Suecia,SWE
+148,ESUIZ,Embajada  en  Suiza,CHE
+149,ESURI,Embajada  en  Surinam,SUR
+150,ETAIL,Embajada  en  Tailandia,THA
+151,ETRIA,Embajada  en  Austria,AUT
+152,ETRIN,Embajada  en  Trinidad  y  Tobago,TTO
+153,ETUNE,Embajada  en  Túnez,TUN
+154,ETURQ,Embajada  en  Türkiye,TUR
+155,EUCRA,Embajada  en  Ucrania,UKR
+156,EUNES,"Delegación  Permanente  ante  la  Organización  de  las  Naciones  Unidas  para  la  Educación, la  Ciencia  y  la  Cultura",FRA
+157,EUNGR,Embajada  en  Hungría,HUN
+158,EURUG,Embajada  en  Uruguay,URY
+159,EVENE,Embajada  en  Venezuela,VEN
+160,EVIET,Embajada  en  Vietnam,VNM
+161,OCCAT,Oficina  Comercial  y  Cultural  Argentina  en  Taiwán,CHN
+162,REPAL,Oficina  de  Representación  en  el  Estado  de  Palestina,PSE

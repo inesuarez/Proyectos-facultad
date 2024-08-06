@@ -1,0 +1,236 @@
+,sede_id,url,tipoDeRed
+0,ECANA, https://www.instagram.com/argentinaincanada/ ,Instagram
+1,ECEUR, https://www.youtube.com/@ARGanteUE ,Youtube
+2,EEEUU, https://www.flickr.com/photos/ARGinUSA/ ,Flickr
+3,CFDIG, https://www.instagram.com/argentinaenfoz/ ,Instagram
+4,CSBAH, https://twitter.com/ArgentinaEnSSA ,Twitter
+5,EARAB, https://www.instagram.com/arginsaudi/ ,Instagram
+6,EBRAS, https://www.facebook.com/embargbrasil ,Facebook
+7,EETIO, https://www.instagram.com/embaargenetiopia/ ,Instagram
+8,ESUEC, https://www.instagram.com/arginsweden/ ,Instagram
+9,ETUNE, https://www.instagram.com/embargentinatn ,Instagram
+10,CFLOR, https://www.facebook.com/cflor.mrecic.gov.ar ,Facebook
+11,CMALD, https://www.instagram.com/consulado_argentino/ ,Instagram
+12,EBRAS, https://twitter.com/ArgentinaEnBras ,Twitter
+13,EBULG, https://www.youtube.com/channel/UCK-uSxN84lEMqJwCviEjZow ,Youtube
+14,ECEUR, https://www.linkedin.com/company/arganteue ,Linkedin
+15,EEGIP, twitter.com/ARGenEgipto ,Twitter
+16,EESPA, https://www.facebook.com/argenespa/ ,Facebook
+17,EJAPO, https://www.facebook.com/ArgJapon/?ref=bookmarks ,Facebook
+18,ERUMA, https://www.instagram.com/argentinaenrumania ,Instagram
+19,CANTO,https://www.facebook.com/Consulado-de-la-Rep%C3%BAblica-Argentina-en-Antofagasta-255728465291743/ ,Facebook
+20,CCEST,https://www.facebook.com/ArgEnCiudaddeleste/ ,Facebook
+21,ECANA,https://www.facebook.com/ArgentinaInCanada ,Facebook
+22,EEEUU,https://twitter.com/ARGinUSA ,Twitter
+23,EJAMA,https://www.facebook.com/ArgentinaEnJamaica/ ,Facebook
+24,ETRIN,www.facebook.com/ArgentinaEnTrinidadYTobago ,Facebook
+25,EEEUU, www.linkedin.com/in/ARGinUSA ,Linkedin
+26,CBARC, linkedin.com/company/consulado-y-centro-de-promoci%C3%B3n-de-la-republica-argentina-en-barcelona/mycompany/ ,Linkedin
+27,CMILA, https://www.youtube.com/channel/UCZdYeN4gttYEyX15xxkUNWQ ,Youtube
+28,EITAL, https://www.instagram.com/arginitalia/?hl=es ,Instagram
+29,ESSED, https://www.facebook.com/ArgEnSantaSede ,Facebook
+30,CBONN, http://www.instagram.com/consulado.argentino.bonn ,Instagram
+31,CGMUM, https://www.instagram.com/argenmumbai ,Instagram
+32,CRECI, https://www.instagram.com/consuladoargentinorecife ,Instagram
+33,EBELG, https://www.instagram.com/argenbelgica/ ,Instagram
+34,EECUA, https://instagram.com/argentinaenecuador?igshid=1pzlw4ojakxjh ,Instagram
+35,EITAL, https://twitter.com/arginitalia?lang=es ,Twitter
+36,EMARR, https://twitter.com/ArgMarruecos ,Twitter
+37,ESSED, https://www.youtube.com/c/EmbajadaArgentinaantelaSantaSede ,Youtube
+38,EVIET, https://www.instagram.com/argenvietnam/ ,Instagram
+39,CALEG,https://twitter.com/ArgPortoAlegre ,Twitter
+40,CAREN,https://www.facebook.com/profile.php?id=100014152878593 ,Facebook
+41,CBELO,https://www.facebook.com/ArgentinaEnBeloHorizonte/ ,Facebook
+42,CLOND,https://www.instagram.com/consuladoargentinoenlondres/ ,Instagram
+43,CMALD,https://www.facebook.com/pg/ConsuladoArgentinoenMaldonado/posts/?ref=page_internal ,Facebook
+44,CSIDN,https://www.facebook.com/ArgentinaEnSidney/ ,Facebook
+45,CVIGO,facebook.com/ArgentinaenVigo ,Facebook
+46,EARGE,https://twitter.com/ARGenArgelia ,Twitter
+47,ECHES,https://www.facebook.com/ArgentinaEnRepCheca/ ,Facebook
+48,EESPA,https://twitter.com/ARGenesp ,Twitter
+49,EFRAN,https://www.facebook.com/ArgentinaEnFrancia/ ,Facebook
+50,EFRUS,https://www.facebook.com/EMBAJADAARGENTINAENMOSCU ,Facebook
+51,EPAKI,https://twitter.com/EmbajadadeArge1 ,Twitter
+52,ERICA,https://www.facebook.com/argentinaencostarica/ ,Facebook
+53,ESAFR,facebook.com/ArgenSudafrica ,Facebook
+54,ETUNE,https://www.facebook.com/ArgEnTunez/ ,Facebook
+55,ECANA, https://www.linkedin.com/company/argentinaincanada ,Linkedin
+56,CNYOR, https://www.youtube.com/channel/UCJFygvT8lgEo1PrQqsHqMKg ,Youtube
+57,EEOEA, www.youtube.com/channel/UCqjmCa0UfL3_I3Ovqz5ZAag/featured ,Youtube
+58,CBARC, instagram.com/argenbarcelona ,Instagram
+59,CCURI, https://twitter.com/ARGenCuri ,Twitter
+60,CNYOR, https://www.instagram.com/argennewyork/ ,Instagram
+61,ECANA, https://twitter.com/ArginCanada ,Twitter
+62,ECEUR, https://twitter.com/ARGanteUE ,Twitter
+63,EFILI, https://twitter.com/ArgentinaEnFili ,Twitter
+64,EHILE, https://www.instagram.com/embargenchile/ ,Instagram
+65,ETRIA, https://www.instagram.com/argenviena/ ,Instagram
+66,CBARC, twitter.com/ARGenBarcelona ,Twitter
+67,CTORO, https://www.instagram.com/consuladoargtoronto/ ,Instagram
+68,EARAB, https://twitter.com/ensaudita ,Twitter
+69,ENIGE, https://www.instagram.com/embargennigeria/?igshid=f0laoeu8lhv8 ,Instagram
+70,ESING, https://instagram.com/argentine_embassy_singapore?igshid=YmMyMTA2M2Y= ,Instagram
+71,EUNES, https://www.facebook.com/delegation.argentine/ ,Facebook
+72,CCOCH,wwww.facebook.com/ArgentinaEnCochabamba ,Facebook
+73,CTENE,www.facebook.com/argentinaentenerife ,Facebook
+74,CTORO,https://www.facebook.com/ArgentinaEnToronto/ ,Facebook
+75,EARME,https://www.instagram.com/arginarmenia/ ,Instagram
+76,ECORE,https://www.facebook.com/ArgentinaEnCorea/ ,Facebook
+77,EFILI,https://www.facebook.com/ArgentinaEnFilipinas ,Facebook
+78,EPARA,https://twitter.com/argenparaguay_ ,Twitter
+79,ESALV,https://twitter.com/ARGenElSalvador ,Twitter
+80,EUCRA,https://www.facebook.com/ArgentinaEnUcrania ,Facebook
+81,EUNES,https://twitter.com/ArgentinaUNESCO ,Twitter
+82,EVENE,https://twitter.com/argenvenezuela?lang=es ,Twitter
+83,ERUNI, https://www.youtube.com/channel/UCzaGU10f-77SR56kini9-1g/videos?view_as=subscriber ,Youtube
+84,EMEXI, https://www.youtube.com/user/EmbaArgenMX ,Youtube
+85,EOIRS, https://www.youtube.com/channel/UCSOsChik8j7nFJZnPq6K7Ag ,Youtube
+86,ETUNE, https://www.youtube.com/channel/UC8kSZug1SPHrp3r1hGzhjtg ,Youtube
+87,CBELO, https://www.instagram.com/consgralbelo/ ,Instagram
+88,CGMUM, https://twitter.com/cgmum1 ,Twitter
+89,EECUA, https://www.youtube.com/channel/UC7FnoaJNif8jQLyBb4QDKng ,Youtube
+90,EINDI, https://www.instagram.com/argentinaenind/ ,Instagram
+91,EMEXI, https://www.instagram.com/embargenmexico/ ,Instagram
+92,CCHIC, https://www.facebook.com/ArgentinaEnChicago ,Facebook
+93,CFDIG, https://www.facebook.com/ArgentinaEnFozDeIguazu ,Facebook
+94,CSBAH, https://www.facebook.com/ArgentinaenSalvador ,Facebook
+95,CSCRS, www.facebook.com/ArgEnSantaCruz  de  la  Sierra ,Facebook
+96,EAUST, https://twitter.com/ARGinAustralia ,Twitter
+97,EFRUS, https://twitter.com/EmbArgRusia ,Twitter
+98,CGTEL,https://www.facebook.com/ArgentinaEnIsrael/ ,Facebook
+99,CURUG,https://www.facebook.com/ArgEnUruguayana/ ,Facebook
+100,EANGO,https://www.facebook.com/ArgentinaEnAngola/ ,Facebook
+101,EEARB,https://www.facebook.com/ArgentinaEnEmiratosArabesUnidos ,Facebook
+102,EKENY,www.facebook.com/ArgentinaEnKenia ,Facebook
+103,ENIGE,https://www.facebook.com/ArgentinaEnNigeria/ ,Facebook
+104,EOIRS,https://www.facebook.com/ArgentinaEnGinebra ,Facebook
+105,ESING,https://twitter.com/ARGinSingapore ,Twitter
+106,ESSED,https://twitter.com/ArgSantaSede ,Twitter
+107,EUNGR,https://www.facebook.com/ArgentinaEnHungria ,Facebook
+108,EVIET,https://www.facebook.com/ArgentinaEnVietnam/ ,Facebook
+109,ESSED, https://www.instagram.com/argensantasede/ ,Instagram
+110,EEEUU, https://www.instagram.com/ARGinUSA/ ,Instagram
+111,EEGIP, facebook.com/ArgentinaenEgipto ,Facebook
+112,EURUG, https://www.instagram.com/argentinaenuru/ ,Instagram
+113,EARGE, https://instagram.com/argenargelia ,Instagram
+114,EAZER, www.instagram.com/embargentinaaz ,Instagram
+115,ECHES, https://www.instagram.com/argentinaenpraga ,Instagram
+116,ECORE, https://www.instagram.com/embajadaargentinaencorea1/?hl=es ,Instagram
+117,EEOEA, www.instagram.com/argenoea/ ,Instagram
+118,EIRLA, https://www.instagram.com/embajadaargentinairlanda ,Instagram
+119,EJAMA, https://twitter.com/ARGenJamaica ,Twitter
+120,EKENY, https://www.instagram.com/argenkenya/ ,Instagram
+121,EPARA, https://www.facebook.com/embajada.paraguay ,Facebook
+122,ESAFR, https://twitter.com/EmbArgentina ,Twitter
+123,ETRIA, https://twitter.com/ARGenViena ,Twitter
+124,EUCRA, https://www.instagram.com/argenucrania/ ,Instagram
+125,EURUG, https://www.facebook.com/ArgentinaEnUru/ ,Facebook
+126,CCHIC,https://twitter.com/argenchicago ,Twitter
+127,CFDIG,https://twitter.com/argentinaenfoz ,Twitter
+128,CMADR,https://www.facebook.com/ArgentinaEnMadridEsp/ ,Facebook
+129,CMIAM,https://es-la.facebook.com/consuladoargentino.miami/ ,Facebook
+131,CRIOJ,https://www.facebook.com/ArgentinaEnRiodeJaneiro/ ,Facebook
+132,CVILL,https://www.facebook.com/ArgEnVillazon ,Facebook
+133,EALEM,https://www.facebook.com/ArgEnAlemania/ ,Facebook
+134,EARAB,https://www.facebook.com/argentinaenarabiasaudita/ ,Facebook
+135,EAZER,https://www.facebook.com/EmbassyOfArgentina/ ,Facebook
+136,EBELG,https://www.facebook.com/ArgentinaEnBelgica/ ,Facebook
+137,EBRAS,https://www.instagram.com/embaargenbrasil ,Instagram
+138,ECEUR,https://www.facebook.com/ARGanteUE ,Facebook
+139,EDINA,https://www.facebook.com/EmbajadadeArgentinaenDinamarca/ ,Facebook
+140,EEGIP,instagram.com/argenegipto/ ,Instagram
+141,EKUWA,www.facebook.com/ArgentinaenKuwait ,Facebook
+142,EMOZA,https://www.facebook.com/ArgentinaEnMozambique/ ,Facebook
+143,EMSIA,https://www.facebook.com/ArgentinaEnMalasia ,Facebook
+144,ENORU,https://www.facebook.com/ArgentinaEnNoruega/ ,Facebook
+145,ESERB,Facebook.com/ArgentinaEnSerbia ,Facebook
+146,EURUG,https://twitter.com/ArgentinaEnUru ,Twitter
+147,CCHIC, https://www.youtube.com/channel/UCjZ3a6zTr156aP_zg-1lQfQ/featured ,Youtube
+148,EOIRS, https://twitter.com/ArgentinaONUOMC   ,Twitter
+149,ESALV, https://www.instagram.com/embargenelsalvador/ ,Instagram
+150,EVENE, https://www.instagram.com/argenvenezuela/ ,Instagram
+151,CALEG, https://www.facebook.com/ArgentinaEnPortoAlegre/ ,Facebook
+152,CMILA, https://www.instagram.com/consuladoargentinoenmilan/ ,Instagram
+153,CURUG, https://twitter.com/CURUGoK ,Twitter
+154,EANGO, https://www.instagram.com/embargentinaenangola/ ,Instagram
+155,EARME, https://www.facebook.com/ArgentinaEnArmenia ,Facebook
+156,ECANA, https://www.youtube.com/channel/UC77DGXZ2ppExRtV4WS4IV-A ,Youtube
+157,ECOLO, https://www.facebook.com/ArgColombia/?ref=bookmarks ,Facebook
+158,EEEUU, https://www.facebook.com/ARGinUSA/ ,Facebook
+159,EFILI, https://www.instagram.com/argentinaenfilipinas/ ,Instagram
+160,EISRA, https://twitter.com/argenisrael ,Twitter
+161,EOIRS, www.instagram.com/misionargentinaonu ,Instagram
+162,ESALV, https://www.facebook.com/ArgentinaEnElSalvador/ ,Facebook
+163,ESERB, Instagram.com/ARGinSerbia ,Instagram
+164,CBONN,https://www.facebook.com/ConsuladoArgentinoenBonn ,Facebook
+165,CCADI,www.facebook.com/ArgentinaEnCadiz ,Facebook
+166,CLANG,https://www.facebook.com/ArgentinaEnLosAngeles/?ref=aymt_homepage_panel   ,Facebook
+167,CMALL,https://www.facebook.com/ArgentinaEnPalmaDeMallorca ,Facebook
+168,CMILA,https://www.facebook.com/ConsuladoArgentinoenMilan ,Facebook
+169,CRECI,https://www.facebook.com/ArgentinaEnBrasilRecife ,Facebook
+170,CVALP,https://www.facebook.com/ArgentinaEnValparaiso ,Facebook
+171,ECUBA,https://www.facebook.com/ArgentinaEnCubaLaHabana/ ,Facebook
+172,EDOMI,https://es-la.facebook.com/ArgentinaEnRepublicaDominicana/ ,Facebook
+173,EEOEA,www.facebook.com/ARGenOEA/ ,Facebook
+174,EETIO,https://www.facebook.com/ArgEnEtiopia/ ,Facebook
+175,EINDI,https://twitter.com/ArgentinaEnInd ,Twitter
+176,EIRLA,https://www.facebook.com/ArgentinaEnIrlanda/ ,Facebook
+177,EMEXI,https://twitter.com/@ARGenMexico ,Twitter
+178,EPOLO,https://www.facebook.com/Embajada-de-la-Rep%C3%BAblica-Argentina-en-Polonia-1726942037398853/ ,Facebook
+179,ETAIL,https://www.facebook.com/ArgEnTailandiaBangkok/?tn-str=k*F ,Facebook
+180,EEEUU, https://www.youtube.com/ARGinUSA ,Youtube
+181,CALEG, https://www.instagram.com/argenportoalegre/ ,Instagram
+182,EAZER, www.twitter.com/ARGEnAzer ,Twitter
+183,EESPA, https://www.instagram.com/argenespa/ ,Instagram
+184,ERUNI, https://www.flickr.com/photos/138300767@N07/albums ,Flickr
+185,CCEST, https://www.instagram.com/argenciudaddeleste ,Instagram
+186,CVIGO, https://www.instagram.com/argenvigo/ ,Instagram
+187,EHILE, https://www.facebook.com/EmbArgentinaEnChile ,Facebook
+188,EMEXI, https://www.facebook.com/ARGenMexico/ ,Facebook
+189,ENORU, https://www.instagram.com/ARGenNoruega/ ,Instagram
+190,EPERU, https://www.facebook.com/ArgentinaEnPeru ,Facebook
+191,ERUNI, https://www.facebook.com/ARGinUK/ ,Facebook
+192,ESUEC, https://www.facebook.com/arginsweden/ ,Facebook
+193,ETUNE, https://www.twitter.com/EmbajadaTunez ,Twitter
+194,EVENE, https://www.facebook.com/EmbajadaArgentinaEnVenezuela ,Facebook
+195,CBARC,facebook.com/ArgEnBarcelona ,Facebook
+196,CCOLO,https://www.facebook.com/ArgentinaenColonia ,Facebook
+197,CMDEO,https://www.facebook.com/ArgentinaEnMontevideo/ ,Facebook
+198,CNYOR,https://www.facebook.com/ARGenNewYork ,Facebook
+199,CSBAH,https://www.instagram.com/argentinaensalvador ,Instagram
+200,EASIR,https://www.facebook.com/Embajada-Argentina-en-Siria-112176794025495 ,Facebook
+201,EBARB,https://www.facebook.com/ArgentinaEnBarbados/ ,Facebook
+202,EECUA,https://www.facebook.com/Argentina-en-Ecuador-772092829594964/?ref=bookmarks ,Facebook
+203,EITAL,https://es-la.facebook.com/emb.roma/ ,Facebook
+204,ELBNO,https://www.facebook.com/ArgentinaEnLibano ,Facebook
+205,EMARR,https://www.instagram.com/marruecos.embajada/ ,Instagram
+206,REPAL,https://www.facebook.com/ArgEnPalestina ,Facebook
+207,ECEUR, https://www.flickr.com/people/197084220@N02/ ,Flickr
+208,ERUNI, https://www.instagram.com/arginuk/ ,Instagram
+209,EARGE, facebook.com/ArgentinaEnArgelia ,Facebook
+210,EARME, https://twitter.com/ARGinArmenia ,Twitter
+211,EEOEA, www.twitter.com/ARGenOEA ,Twitter
+212,ESAFR, https://www.instagram.com/argentinaensudafrica ,Instagram
+213,CBELO, https://twitter.com/consgralbelo ,Twitter
+214,CCURI, https://instagram.com/argEncuritiba ,Instagram
+215,CHOUS, https://www.facebook.com/ArgentinaEnHouston/ ,Facebook
+216,CNYOR, https://twitter.com/ARGenNewYork ,Twitter
+217,EFINL, www.instagram.com/argenfinlandia/ ,Instagram
+218,EGREC, https://www.youtube.com/channel/UCFaKsErEs33zEdzJbnrzOog/featured ,Youtube
+219,EINDI, https://www.facebook.com/ArgentinaEnInd ,Facebook
+220,EPBAJ, https://twitter.com/ArgentinaEnPB ,Twitter
+221,CCURI,https://www.facebook.com/ArgEnCuritiba/ ,Facebook
+222,CGMUM,https://www.facebook.com/argenmumbai ,Facebook
+223,CPMON,https://www.facebook.com/ArgentinaEnPuertoMontt/ ,Facebook
+224,EAUST,https://www.facebook.com/ArgentinaEnAustralia/ ,Facebook
+225,EBULG,https://www.facebook.com/ArgentinaEnBulgaria/ ,Facebook
+226,EFINL,www.facebook.com/ArgentinaEnFinlandia/ ,Facebook
+227,EGREC,https://www.facebook.com/ArgentinaEnGrecia ,Facebook
+228,EHILE,https://twitter.com/EmbArgEnChile ,Twitter
+229,EISRA,https://www.facebook.com/ArgEnIsrael ,Facebook
+230,EPBAJ,https://www.facebook.com/ArgEnPaisesBajos/ ,Facebook
+231,EPERU,https://twitter.com/Emb_Arg_Peru ,Twitter
+232,ERUMA,https://www.facebook.com/ArgentinaEnRumania ,Facebook
+233,ERUNI,https://twitter.com/ARGinUK ,Twitter
+234,ESUEC,https://se.linkedin.com/showcase/arginsweden ,Linkedin
+235,ETRIA,https://www.facebook.com/ArgentinaEnAustria/ ,Facebook
